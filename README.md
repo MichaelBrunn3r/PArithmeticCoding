@@ -1,9 +1,5 @@
 ## About
-This small tool is supposed to help you when encoding a string with Arithmeti Coding by hand.
-
-## Requirements
-- Python3
-- [prettytable](https://pypi.org/project/PrettyTable/) (only if you need pretty printed tables)
+This small tool is supposed to help you when encoding a string with Arithmetic Coding by hand.
 
 ## Usage
 `python arithmetic.py [-h] {intervals,encode}` 
